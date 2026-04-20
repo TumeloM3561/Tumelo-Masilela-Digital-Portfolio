@@ -21,10 +21,11 @@ I am passionate about networking, troubleshooting, and working with computer sys
 **Cape Peninsula University of Technology**  
 Diploma in ICT – Communication Networks  
 
-**Mkhephuli Senior Secondary School)**  
-Matric
----
+**Mkhephuli Senior Secondary School**
 
+Matric
+
+---
 ## 💼 Work Experience
 **Silulo Ulutho Technologies**  
 - Assisted customers with computer usage in an internet café environment  
@@ -38,7 +39,6 @@ Matric
 You can view my CV below:
 
 - Name: Tumelo  Masilela
-- ## 📞 Contact
 - Email: 222335726@mycput.ac.za
 - Contact number: 076 955 1593
 - GitHub: https://github.com/TumeloM3561
