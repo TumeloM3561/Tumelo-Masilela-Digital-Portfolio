@@ -24,4 +24,21 @@ This project focuses on basic network troubleshooting using Windows commands. Th
 
 ## ▶️ Usage
 - Open Command Prompt
-- Type:ipconfig 
+- Type:ipconfig
+
+- Analyze the network details displayed
+
+---
+
+## 📸 Screenshot
+![IP Configuration](screenshot.png)
+
+---
+
+## 🧠 Reflection
+This task helped me understand how to check network settings and troubleshoot connectivity issues. I learned how to identify whether a device is properly configured on a network.
+
+---
+
+## 👤 Author
+Tumelo Gabriel Masilela
