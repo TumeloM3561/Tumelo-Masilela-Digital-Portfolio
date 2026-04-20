@@ -1,4 +1,4 @@
-# 💼 Digital Portfolio – Tumelo
+# 💼 Tumelo Masilela's Digital Portfolio
 
 ## 👤 About Me
 My name is Tumelo, and I am currently studying a Diploma in Information and Communication Technology, specializing in Communication Networks at Cape Peninsula University of Technology (CPUT).
