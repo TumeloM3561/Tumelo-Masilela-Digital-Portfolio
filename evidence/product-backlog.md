@@ -1,6 +1,10 @@
 # Assessment 3: Product Backlog
 
-The product backlog is an organised list of project features, requirements, and tasks. Items can be prioritised according to their value and importance.
+A product backlog is a prioritised list of features, requirements, improvements, and tasks that may need to be completed during a project. It provides the team with a shared understanding of the work required to develop the product.
+
+For Tech Empower Labs, the product backlog helps organise project requirements and identify which activities should receive attention first. The backlog can be reviewed and updated as the team gains a better understanding of the project or identifies new requirements.
+
+Maintaining a clear product backlog supports planning, prioritisation, transparency, and communication among team members.
 
 ## Evidence
 
