@@ -1,5 +1,11 @@
 # Assessment 5: Agile Logbook
 
+An Agile logbook records the team's progress over time. It can include completed activities, planned work, challenges, blockers, and decisions made during project development. It provides a record of what happened and helps the team reflect on its working process.
+
+For Tech Empower Labs, the logbook helps document daily activities and monitor whether planned tasks are progressing. Recording blockers, such as delays in team participation or access to shared tools, makes challenges visible and helps the team decide what needs attention.
+
+The logbook also supports reflection by helping team members identify what went well, what could be improved, and how communication and planning can be strengthened in future work.
+
 ## Project
 Tech Empower Labs
 
