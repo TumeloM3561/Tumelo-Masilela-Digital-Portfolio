@@ -52,9 +52,9 @@ Tech Empower Labs
 
 ## Evidence
 - [Agile Logbook PDF](../documents/agile-logbook.pdf)
-- ![Agile Logbook screenshot](../images/agile-logbook.png)
+
 
 ## Reflection
 The logbook helped me understand the importance of recording daily progress, outstanding tasks, and issues affecting the team. One blocker was waiting for all members to join the Trello board. Recording it made the issue visible. In future, I would keep updates consistent and make next steps clear so progress can be reviewed more easily.
 
-Make sure this reflection accurately describes your own contribution and experience.
+
