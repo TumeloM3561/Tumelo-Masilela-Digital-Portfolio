@@ -1,4 +1,4 @@
-# Assessment 4: Sprint Backlog
+# Sprint Backlog
 
 The sprint backlog contains the work selected for a sprint and the tasks needed to complete it.
 A sprint backlog is the collection of work selected for a sprint, together with the tasks needed to achieve the sprint goal. A sprint is a fixed period during which the team works towards completing a planned set of activities.
