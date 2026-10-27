@@ -1,4 +1,4 @@
-# Assessment 1: Agile Team Charter
+# Agile Team Charter
 
 ## Project Purpose
 Tech Empower Labs aims to support schools with computer labs, ICT equipment, networking, maintenance, and technical support.
