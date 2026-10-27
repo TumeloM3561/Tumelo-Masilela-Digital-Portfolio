@@ -81,4 +81,4 @@ This portfolio documents the team's Agile planning and teamwork.
 5. [Agile Logbook](evidence/agile-logbook.md)
 
 ## Project Approach
-The team used an Agile Scrum approach to plan work, assign tasks, track progress, and review completed activities. Trello was used to organise project tasks and sprint work.
+The team used an Agile Scrum approach to plan work, assign tasks, track progress, and review completed activities. Trello was used to organise project tasks and sprint. [Trello link]([evidence/agile-logbook.md](https://trello.com/b/NqVLW18P/tech-empower3))
