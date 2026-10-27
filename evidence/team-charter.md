@@ -3,6 +3,10 @@
 ## Project Purpose
 Tech Empower Labs aims to support schools with computer labs, ICT equipment, networking, maintenance, and technical support.
 
+An Agile Team Charter defines the team's purpose, roles, responsibilities, working agreements, and communication methods. It helps team members understand what is expected of them and how they should work together to achieve the project's objectives.
+
+For Tech Empower Labs, the team charter establishes how members contribute to the project, coordinate their activities, share information, and handle challenges. Having clearly defined responsibilities helps reduce confusion, improve accountability, and support effective teamwork.
+
 ## Team and Responsibilities
 
 | Team member | Role | Main responsibility |
