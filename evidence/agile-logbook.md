@@ -1,4 +1,4 @@
-# Assessment 5: Agile Logbook
+# Agile Logbook
 
 An Agile logbook records the team's progress over time. It can include completed activities, planned work, challenges, blockers, and decisions made during project development. It provides a record of what happened and helps the team reflect on its working process.
 
