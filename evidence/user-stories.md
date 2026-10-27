@@ -2,7 +2,7 @@
 
 User stories describe what a user needs and why. Tasks divide the work into smaller activities that the team can complete.
 
-## User Story Format
+
 
 
 ## Evidence
