@@ -66,4 +66,19 @@ As part of the work readiness training, I completed a mock interview to prepare 
 In this project, I was required to publish my digital portfolio using GitHub Pages. My task was to learn how to deploy a repository and make it accessible online. I followed the steps to configure GitHub Pages and ensured that my portfolio displayed correctly as a website. As a result, I successfully published my work online and gained practical experience in hosting and sharing projects using GitHub.
 
 ---
+# Tech Empower Labs
+## Digital Portfolio
 
+Tech Empower Labs focuses on helping schools access technology through computer labs, ICT equipment, networking, maintenance, and technical support.
+
+This portfolio documents the team's Agile planning and teamwork.
+
+## Assessment Areas
+1. [Agile Team Charter](evidence/team-charter.md)
+2. [User Stories and Tasks](evidence/user-stories.md)
+3. [Product Backlog](evidence/product-backlog.md)
+4. [Sprint Backlog](evidence/sprint-backlog.md)
+5. [Agile Logbook](evidence/agile-logbook.md)
+
+## Project Approach
+The team used an Agile Scrum approach to plan work, assign tasks, track progress, and review completed activities. Trello was used to organise project tasks and sprint work.
