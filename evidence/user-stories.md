@@ -1,4 +1,4 @@
-# Assessment 2: User Stories and Tasks
+# User Stories and Tasks
 
 User stories describe what a user needs and why. Tasks divide the work into smaller activities that the team can complete,
 also User stories describe a feature or service from the user's perspective. They explain who needs something, what they need, and why it is important. Tasks divide the work required to fulfil a user story into smaller, manageable activities.
