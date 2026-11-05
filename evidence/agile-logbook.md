@@ -61,6 +61,12 @@ Tech Empower Labs
 
 
 ## Reflection
-The logbook helped me understand the importance of recording daily progress, outstanding tasks, and issues affecting the team. One blocker was waiting for all members to join the Trello board. Recording it made the issue visible. In future, I would keep updates consistent and make next steps clear so progress can be reviewed more easily.
+Keeping the Agile logbook taught me that recording work is as important as doing it. Each daily entry captured what was completed, what was planned, what was blocking us and what came next. When I looked back over the entries from 4 to 7 August 2026, I could clearly see how the team moved from presenting and completing the Trello boards to working on the Brand Guide.
+
+The team walkthrough questions were especially useful. They pushed us to ask what we needed to do to advance our work, whether anyone was working on something that was not on the board, what we needed to finish as a team, and whether anything was blocking us. Answering them honestly helped us notice problems early. For example, waiting for all members to join the Trello board was a bottleneck that could have slowed down every task that depended on it.
+
+I learned that blockers should be recorded as soon as they appear, not after they have already caused delays. I also learned that clear next steps in the logbook make the following day much easier to start, because nobody has to guess what to do.
+
+A challenge was keeping the entries consistent and specific. A line such as “no problems” tells a reader very little, so in future I would add more detail about what was done and how it was verified. I would also update the logbook every day instead of catching up later, and review it with the team each week. The logbook ties the other four sections together. It records how the charter, user stories, backlog and sprints worked in practice.
 
 
